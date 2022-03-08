@@ -1,0 +1,14 @@
+Global Impact 2021
+AI e Chatbot
+
+Objetivo do Chatbot: 
+Nosso ChatBot será utilizado para mostrar a disponibilidade de alimentos disponíveis próximos do vencimento para as que as entidades assistenciais consigam recolhê-los para pessoas com necessidades.
+
+Publico alvo:
+Esse Chatbot irá pedir uma senha, e apenas as pessoas com essa senha vão conseguir checar o estoque de alimentos próximos da data de vencimento, sendo assim o público-alvo do nosso ChatBot certos funcionários do supermercado e alguns funcionários de entidade assistencial que estarão encarregados dessa parte.
+
+Intenções:
+Serão usadas 3 intenções, sendo as intenções: Horário de funcionamento que indicara ao usúario os horários de funcionamento de cada unidade do supermercado, Pedido de Alimentos para exibir os alimentos disponiveis proximos da data de valiodade e pedir a retirada dos mesmos e Supermercados disponíveis para exibir a localização de todos os supermercados.
+
+Entidades:
+Serão usadas 3 entidades, sendo as entidades: Unidades de Supermercados, Alimentos disponíveis e Data de Fabricação e vencimento.
